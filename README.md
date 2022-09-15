@@ -13,5 +13,8 @@
 ⑥替换压缩包里的文件
 
 ## 需要替换的文件下载链接
-https://wwt.lanzout.com/iw4Jo0bq22pc
+蓝奏云:https://wwt.lanzout.com/iw4Jo0bq22pc
 密码:exyt
+
+## 注意
+第一次使用道具需要分享一下，然后就可以无限使用了。
