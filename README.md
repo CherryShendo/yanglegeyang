@@ -20,4 +20,4 @@
 第一次使用道具需要分享一下，然后就可以无限使用了。
 
 ## 图片预览
-![yanglegeyang.jpg](https://s2.loli.net/2022/09/15/R576BGO2VvDQuTw.jpg)
+<img src="https://s2.loli.net/2022/09/15/R576BGO2VvDQuTw.jpg" width = "400" alt="无限道具" align=left />
